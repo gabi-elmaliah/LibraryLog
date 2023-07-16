@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "252792787393",
+    "firebase_url": "https://ecommerce-ac294-default-rtdb.firebaseio.com",
+    "project_id": "ecommerce-ac294",
+    "storage_bucket": "ecommerce-ac294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252792787393:android:7a7dcdc84c9d22772f5f40",
+        "android_client_info": {
+          "package_name": "com.aarafrao.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252792787393-9o65vnpdom6t0vklr594gtaev9qnjgb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0o-OkAwWXrsy8fWbCVhbaBbw-vtFgSnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252792787393-9o65vnpdom6t0vklr594gtaev9qnjgb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252792787393:android:7ff4e3c80947c3652f5f40",
+        "android_client_info": {
+          "package_name": "com.gabby.librarylogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252792787393-9o65vnpdom6t0vklr594gtaev9qnjgb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0o-OkAwWXrsy8fWbCVhbaBbw-vtFgSnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252792787393-9o65vnpdom6t0vklr594gtaev9qnjgb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
